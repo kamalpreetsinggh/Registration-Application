@@ -1,0 +1,71 @@
+<h1 style="text-align: center">Add Educational Details</h1>
+<form >
+    <button class="btn btn-default"  type="button" (click)="signOut()" style="margin-left: 85%;margin-top: -5%">Signout</button>
+
+<table class="table table-sm table-hover">
+<tbody>
+    <tr *ngFor="let field of qualificationdata; let i = index">
+        <td>
+            <span>Select Board</span>
+            <select name="field.Board">
+               <option [value]="board">{{field.Board}}</option>
+              </select>
+        </td>
+        <td>
+            <span>Select Year</span>
+            <select name="field.PassingYear">
+            <option [value]="year">{{field.PassingYear}}</option>
+          </select>
+            
+        </td>
+        <td>
+            <input  class="form-control" type="number" value={{field.Marks}}/>
+        </td>
+        <td>
+            <button class="btn btn-default"  type="button" (click)="deleteFieldValue(i)">Delete</button>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <span>Select Board</span>
+            <select name="boardValue"[(ngModel)]="boardValue">
+              <option *ngFor="let board of Board "[value]="board">{{board}}</option>
+              </select>
+        </td>
+        <td>
+            <span>Select Year</span>
+            <select name="yearValue"[(ngModel)]="yearValue">
+            <option *ngFor="let year of Year"[value]="year">{{year}}</option>
+          </select>
+            
+        </td>
+        <td>
+            <input  class="form-control" type="number" name="MarksValue"[(ngModel)]="MarksValue" placeholder="Marks" />
+        </td>
+       
+       
+        <td>
+            <button  class="btn btn-default" type="submit" (click)="addFieldValue()">Add</button>
+        </td>
+    </tr>
+
+<!-- <tr *ngFor="let employee of employeeService.employeeList">
+    <td>{{employee.FirstName}} - {{employee.LastName}}</td>
+    <td>{{employee.EmpCode}}</td>
+    <td>
+      <a class="btn" (click)="showForEdit(employee)">
+        <i class="fa fa-pencil-square-o"></i>
+      </a>
+      <a class="btn text-danger" (click)="onDelete(employee.EmployeeID)">
+        <i class="fa fa-trash-o"></i>
+      </a>
+    </td>
+  </tr>-->
+  <tr> 
+      <button class="btn btn-success" type="button" (click)="onAdd()" style="margin-left: 252%">Save</button>
+  </tr> 
+</tbody>
+
+   
+</table>
+</form>

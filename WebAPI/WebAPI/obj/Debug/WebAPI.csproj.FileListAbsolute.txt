@@ -1,0 +1,170 @@
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\WebAPI.dll.config
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\WebAPI.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\EntityFramework.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Http.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\WebGrease.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\EntityFramework.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Http.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Cors.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\WebAPI.dll.config
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\WebAPI.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\WebAPI.pdb
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\EntityFramework.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Razor.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\WebGrease.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\EntityFramework.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Razor.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\WebAPI.dll.config
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\WebAPI.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\WebAPI.pdb
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\EntityFramework.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Cors.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Razor.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\WebGrease.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\EntityFramework.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.Razor.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\DataAccess Layer.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\DataAccess Layer.pdb
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\DataAccess Layer.dll.config
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\log4net.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\WebAPI\bin\log4net.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\WebAPI.dll.config
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\WebAPI.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\WebAPI.pdb
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\DataAccess Layer.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\EntityFramework.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\log4net.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Http.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Razor.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\WebGrease.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\DataAccess Layer.pdb
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\DataAccess Layer.dll.config
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\EntityFramework.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\log4net.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Http.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.Razor.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Registration-angular-webapi\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+D:\Registration-angular-webapi\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+D:\Registration-angular-webapi\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+D:\Registration-angular-webapi\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+D:\Registration-angular-webapi\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+D:\Registration-angular-webapi\WebAPI\WebAPI\obj\Debug\WebAPI.pdb

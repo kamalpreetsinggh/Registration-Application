@@ -1,0 +1,24 @@
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\bin\Debug\DataAccess Layer.dll.config
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\bin\Debug\DataAccess Layer.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\bin\Debug\DataAccess Layer.pdb
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\bin\Debug\EntityFramework.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\bin\Debug\EntityFramework.xml
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\obj\Debug\DataAccess Layer.csproj.CoreCompileInputs.cache
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\obj\Debug\DataAccess Layer.csproj.CopyComplete
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\obj\Debug\DataAccess Layer.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\obj\Debug\DataAccess Layer.pdb
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\obj\Debug\DataAccess Layer.csprojAssemblyReference.cache
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\bin\Debug\log4net.dll
+C:\Users\yashb\Music\Angular-5-With-Web-API-CRUD-Application\WebAPI\DataAccess Layer\bin\Debug\log4net.xml
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\bin\Debug\DataAccess Layer.dll.config
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\bin\Debug\DataAccess Layer.dll
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\bin\Debug\DataAccess Layer.pdb
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\bin\Debug\EntityFramework.dll
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\bin\Debug\log4net.dll
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\bin\Debug\EntityFramework.xml
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\bin\Debug\log4net.xml
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\obj\Debug\DataAccess Layer.csprojAssemblyReference.cache
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\obj\Debug\DataAccess Layer.csproj.CoreCompileInputs.cache
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\obj\Debug\DataAccess Layer.csproj.CopyComplete
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\obj\Debug\DataAccess Layer.dll
+D:\Registration-angular-webapi\WebAPI\DataAccess Layer\obj\Debug\DataAccess Layer.pdb

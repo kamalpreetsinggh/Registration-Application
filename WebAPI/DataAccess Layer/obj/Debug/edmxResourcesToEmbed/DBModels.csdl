@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeRegistrationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmpCode" />
+    </Key>
+    <Property Name="EmployeeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="EmpCode" Type="Int32" Nullable="false" />
+    <Property Name="Position" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Office" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Qualifications" Relationship="Self.FK_Qualification_Employee" FromRole="Employee" ToRole="Qualification" />
+  </EntityType>
+  <EntityType Name="Qualification">
+    <Key>
+      <PropertyRef Name="Index" />
+    </Key>
+    <Property Name="PassingYear" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Board" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Marks" Type="Int32" />
+    <Property Name="EmpCode" Type="Int32" />
+    <Property Name="Index" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Employee" Relationship="Self.FK_Qualification_Employee" FromRole="Qualification" ToRole="Employee" />
+  </EntityType>
+  <Association Name="FK_Qualification_Employee">
+    <End Role="Employee" Type="Self.Employee" Multiplicity="0..1" />
+    <End Role="Qualification" Type="Self.Qualification" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="EmpCode" />
+      </Principal>
+      <Dependent Role="Qualification">
+        <PropertyRef Name="EmpCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBModels" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="Qualifications" EntityType="Self.Qualification" />
+    <AssociationSet Name="FK_Qualification_Employee" Association="Self.FK_Qualification_Employee">
+      <End Role="Employee" EntitySet="Employees" />
+      <End Role="Qualification" EntitySet="Qualifications" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

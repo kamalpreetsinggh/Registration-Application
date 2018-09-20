@@ -1,0 +1,49 @@
+<div id="registeration-form">
+    <div style="text-align:center;padding: 10px;margin:20px;">
+        <h2 >Employee Registration</h2>
+      </div>
+
+  <form autocomplete="off" class="emp-form" #employeeForm="ngForm" (ngSubmit)="onSubmit(employeeForm)">
+    <input type="hidden" name="EmployeeID" #EmployeeID="ngModel" [(ngModel)]="employeeService.selectedEmployee.EmployeeID">
+    <div>
+      <div class="input">
+        <input name="FirstName" #FirstName="ngModel" [(ngModel)]="employeeService.selectedEmployee.FirstName"
+          placeholder="First Name" required maxlength="30">
+      </div>
+      <span class="validation-error" *ngIf="FirstName.invalid && FirstName.touched">
+        First Name is Required.
+      </span>
+    </div>
+    <div>
+      <div class="input" >
+        <input name="LastName" #LastName="ngModel" [(ngModel)]="employeeService.selectedEmployee.LastName" placeholder="Last Name"
+          required maxlength="30">
+      </div>
+      <span class="validation-error" *ngIf="LastName.invalid && LastName.touched">
+        Last Name is Required.
+      </span>
+    </div>
+    <div class="input">
+      <input name="Position" maxlength="50" #Position="ngModel" [(ngModel)]="employeeService.selectedEmployee.Position" placeholder="Position">
+    </div>
+    <div class="input">
+        <input type="number" min="0" max="10000" name="EmpCode" #EmpCode="ngModel" [(ngModel)]="employeeService.selectedEmployee.EmpCode" placeholder="Emp Code">
+    </div>
+    <div>
+      <span name="message">{{message}}</span>
+    </div>
+    <div class="input">
+        <input name="Office" maxlength="50" #Office="ngModel" [(ngModel)]="employeeService.selectedEmployee.Office" placeholder="Office">
+    </div>
+    <div>
+      <div id="submit">
+        <button [disabled]="!employeeForm.valid" type="submit">
+          <i class="fa fa-floppy-o"></i> Submit</button>
+      </div>
+      <div id="reset">
+        <button type="button" (click)="resetForm(employeeForm)">
+          <i class="fa fa-repeat"></i> Reset</button>
+      </div>
+    </div>
+  </form>
+</div>
